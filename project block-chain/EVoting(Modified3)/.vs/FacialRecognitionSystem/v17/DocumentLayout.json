@@ -1,0 +1,1043 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EVoting(Modified3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\mainrecog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\mainrecog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\mainrecog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\mainrecog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|d:\\evoting(modified3)\\facialrecognitionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\baseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\baseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E604807-0382-407F-A0E8-B3D50187EF34}|src\\IpfsEngine.csproj|d:\\evoting(modified3)\\src\\repositoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E604807-0382-407F-A0E8-B3D50187EF34}|src\\IpfsEngine.csproj|solutionrelative:src\\repositoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E604807-0382-407F-A0E8-B3D50187EF34}|src\\IpfsEngine.csproj|d:\\evoting(modified3)\\src\\ipfsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E604807-0382-407F-A0E8-B3D50187EF34}|src\\IpfsEngine.csproj|solutionrelative:src\\ipfsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\mxfaceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\mxfaceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewblockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewblockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addcadidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addcadidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addcadidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addcadidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewblockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewblockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_blockchainactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_blockchainactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_voting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_voting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\user_viewblockchain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\user_viewblockchain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_viewvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_viewvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_viewvoters.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_viewvoters.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_viewvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_viewvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_vieweletions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_vieweletions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_vieweletions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_vieweletions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_vieweletions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_vieweletions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_viewcandidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_viewcandidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_viewcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_viewcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_results.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_results.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_blockchainactivities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_blockchainactivities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_blockchainactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_blockchainactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addelections.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addelections.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_addcadidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_addcadidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\ec_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\ec_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\userauthentication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\userauthentication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anoop\\Downloads\\ReadImgFromDB\\imgupl.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\mainrecog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\mainrecog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EVoting(Modified3)\\FacialRecognitionSystem\\FaceCompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FacialRecognitionSystem\\FaceCompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|D:\\EVoting(Modified3)\\facialrecognitionsystem\\opentk.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{888D4C35-CB16-4381-BC92-642C093C231D}|FacialRecognitionSystem\\FacialRecognitionSystem.csproj|solutionrelative:facialrecognitionsystem\\opentk.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\Program.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Program.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainRecog.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\MainRecog.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.cs [Design]",
+              "RelativeToolTip": "FacialRecognitionSystem\\MainRecog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IpfsEngine.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\src\\IpfsEngine.cs",
+              "RelativeDocumentMoniker": "src\\IpfsEngine.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\src\\IpfsEngine.cs",
+              "RelativeToolTip": "src\\IpfsEngine.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseConnection.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\BaseConnection.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\BaseConnection.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\BaseConnection.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\BaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\RegisterUser.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\RegisterUser.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\RegisterUser.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAlwBIBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUser.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\RegisterUser.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\RegisterUser.cs [Design]",
+              "RelativeToolTip": "FacialRecognitionSystem\\RegisterUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainRecog.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\MainRecog.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\MainRecog.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAApwDsBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:30.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\LoginPage.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:30.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryOptions.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\src\\RepositoryOptions.cs",
+              "RelativeDocumentMoniker": "src\\RepositoryOptions.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\src\\RepositoryOptions.cs",
+              "RelativeToolTip": "src\\RepositoryOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:30.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_Home.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Home.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Home.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAjwHUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:30.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Crypto.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\Crypto.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Crypto.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\Crypto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MXFaceAPI.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MXFaceAPI.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\MXFaceAPI.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MXFaceAPI.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\MXFaceAPI.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAADgv4UAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User_Home.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Home.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\LoginPage.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\LoginPage.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvyIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\LoginForm.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\Form1.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User_ViewBlockchain.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EC_AddElections.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddElections.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EC_AddCadidates.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAjwGMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EC_AddCadidates.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddCadidates.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserAuthentication.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\UserAuthentication.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User_Voting2.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting2.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User_voting3.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_voting3.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User_Voting1.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting1.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User_ViewResults.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewResults.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User_ViewBlockchain.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewBlockchain.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EC_BlockchainActivities.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EC_Home.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_Home.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserAuthentication.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\UserAuthentication.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\UserAuthentication.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADgv1MAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User_Home.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Home.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Home.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Home.designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAADgv1wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User_voting3.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_voting3.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_voting3.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User_voting3.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_voting3.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_voting3.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_voting3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User_Voting2.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting2.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Voting2.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User_Voting2.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting2.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting2.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Voting2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User_Voting1.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting1.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Voting1.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User_Voting1.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_Voting1.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_Voting1.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_Voting1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User_ViewResults.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewResults.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_ViewResults.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User_ViewResults.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewResults.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewResults.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_ViewResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User_ViewBlockchain.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\User_ViewBlockchain.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\User_ViewBlockchain.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\User_ViewBlockchain.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EC_ViewVoters.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EC_ViewVoters.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewVoters.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewVoters.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EC_ViewVoters.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewVoters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EC_ViewEletions.cs [Design]",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EC_ViewEletions.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewEletions.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewEletions.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EC_ViewEletions.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewEletions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EC_ViewCandidates.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewCandidates.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewCandidates.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewCandidates.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewCandidates.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EC_ViewCandidates.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewCandidates.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_ViewCandidates.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_ViewCandidates.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_ViewCandidates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EC_Results.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Results.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_Results.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Results.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_Results.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EC_Results.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Results.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_Results.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Results.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_Results.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EC_BlockchainActivities.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_BlockchainActivities.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_BlockchainActivities.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EC_BlockchainActivities.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_BlockchainActivities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EC_AddElections.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddElections.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_AddElections.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EC_AddElections.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddElections.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddElections.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_AddElections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EC_AddCadidates.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_AddCadidates.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_AddCadidates.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_AddCadidates.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserAuthentication.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\UserAuthentication.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\UserAuthentication.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\UserAuthentication.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EC_Home.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_Home.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_Home.designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADgvzoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EC_Home.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\EC_Home.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\EC_Home.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\EC_Home.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginPage.designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\LoginPage.designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginPage.designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\LoginPage.designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADgv18AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-09T07:11:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\Form1.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Form1.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\LoginForm.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\LoginForm.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\LoginForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvx4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-09T07:11:31.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\Form4.cs",
+              "ToolTip": "E:\\YUVATECH2024\\PROJECT\\BTech_SreeBudha\\EVoting(Modified3)\\FacialRecognitionSystem\\Form4.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADgv0QAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T02:52:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "imgupl.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\anoop\\Downloads\\ReadImgFromDB\\imgupl.aspx.cs",
+              "ToolTip": "C:\\Users\\anoop\\Downloads\\ReadImgFromDB\\imgupl.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:01:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MainRecog.Designer.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.Designer.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\MainRecog.Designer.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\MainRecog.Designer.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\MainRecog.Designer.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAADgv2wAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FaceCompare.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\FaceCompare.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\FaceCompare.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\FaceCompare.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\FaceCompare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "FacialRecognitionSystem\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:11:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OpenTK.dll.config",
+              "DocumentMoniker": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\OpenTK.dll.config",
+              "RelativeDocumentMoniker": "FacialRecognitionSystem\\OpenTK.dll.config",
+              "ToolTip": "D:\\EVoting(Modified3)\\FacialRecognitionSystem\\OpenTK.dll.config",
+              "RelativeToolTip": "FacialRecognitionSystem\\OpenTK.dll.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-09T07:11:31.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

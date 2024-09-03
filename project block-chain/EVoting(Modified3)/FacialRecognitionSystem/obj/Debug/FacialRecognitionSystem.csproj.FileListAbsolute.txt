@@ -1,0 +1,274 @@
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\FaceRecognition.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CopyComplete
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\cletu\Documents\Projects\FacialRecognitionSystem\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CopyComplete
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+C:\Users\anoop\Downloads\Facial-Recognition-System-in-Csharp-main\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form2.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CopyComplete
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.RegisterUser.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginForm.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.MainRecog.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.AlertForm.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\Facial-Recognition-System-in-Csharp-main\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.VoiceAlert.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.AlertForm.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form2.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form3.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginForm.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.MainRecog.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.RegisterUser.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.VoiceAlert.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CopyComplete
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Admin_Home.resources
+E:\YUVATECH2024\PROJECT STUDY\MCA Mohandas\FaceRecognitionCar\VehicleMonitoring\VehicleSecurity\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form4.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginForm.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.MainRecog.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.RegisterUser.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CopyComplete
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_AddCadidates.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_AddElections.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_BlockchainActivities.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_Home.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_Results.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewCandidates.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewEletions.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewVoters.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginPage.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.UserAuthentication.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Home.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_ViewBlockchain.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_ViewResults.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Voting1.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Voting2.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_voting3.resources
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Newtonsoft.Json.dll
+E:\YUVATECH2024\PROJECT\BTech_SreeBudha\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Newtonsoft.Json.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe.config
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.exe
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\FacialRecognitionSystem.pdb
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Newtonsoft.Json.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ZedGraph.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.UI.GL.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\Emgu.CV.World.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\OpenTK.GLControl.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ZedGraph.xml
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\de\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\es\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\fr\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\hu\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\it\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ja\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\pt\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\ru\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\sk\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\sv\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\tr\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.AssemblyReference.cache
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_AddCadidates.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_AddElections.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_BlockchainActivities.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_Home.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_Results.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewCandidates.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewEletions.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.EC_ViewVoters.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Form1.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginForm.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.LoginPage.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.MainRecog.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.Properties.Resources.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.RegisterUser.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.UserAuthentication.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Home.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_ViewBlockchain.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_ViewResults.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Voting1.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_Voting2.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.User_voting3.resources
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.GenerateResource.cache
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.csproj.CoreCompileInputs.cache
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRe.20C46A83.Up2Date
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.exe
+D:\EVoting(Modified3)\FacialRecognitionSystem\obj\Debug\FacialRecognitionSystem.pdb

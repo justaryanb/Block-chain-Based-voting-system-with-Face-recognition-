@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EVoting(Modified3)\\src\\IpfsEngine.csproj": {}
+  },
+  "projects": {
+    "D:\\EVoting(Modified3)\\src\\IpfsEngine.csproj": {
+      "version": "0.42.0",
+      "restore": {
+        "projectUniqueName": "D:\\EVoting(Modified3)\\src\\IpfsEngine.csproj",
+        "projectName": "Ipfs.Engine",
+        "projectPath": "D:\\EVoting(Modified3)\\src\\IpfsEngine.csproj",
+        "packagesPath": "C:\\Users\\sreej\\.nuget\\packages\\",
+        "outputPath": "D:\\EVoting(Modified3)\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\sreej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461",
+          "netstandard2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Ipfs.Core": {
+              "target": "Package",
+              "version": "[0.55.0, )"
+            },
+            "Makaretu.Dns.Unicast": {
+              "target": "Package",
+              "version": "[0.11.1, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-beta2-19270-01, )"
+            },
+            "Microsoft.VisualStudio.Threading.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[16.3.52, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Nito.AsyncEx.Coordination": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "PeerTalk": {
+              "target": "Package",
+              "version": "[0.20.1, )"
+            },
+            "PeterO.Cbor": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2",
+          "dependencies": {
+            "Ipfs.Core": {
+              "target": "Package",
+              "version": "[0.55.0, )"
+            },
+            "Makaretu.Dns.Unicast": {
+              "target": "Package",
+              "version": "[0.11.1, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-beta2-19270-01, )"
+            },
+            "Microsoft.VisualStudio.Threading.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[16.3.52, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Nito.AsyncEx.Coordination": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "PeerTalk": {
+              "target": "Package",
+              "version": "[0.20.1, )"
+            },
+            "PeterO.Cbor": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
