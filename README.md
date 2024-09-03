@@ -1,3 +1,2 @@
-# Block-chain Based voting system with Face rec
-ognition 
+# Block-chain Based voting system with Face recognition 
  
